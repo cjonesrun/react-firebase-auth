@@ -1,5 +1,5 @@
 # keys and sensitive data
-src/firebase/firbase.js
+src/firebase/firebase.js
 
 # Logs
 logs
